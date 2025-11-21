@@ -27,7 +27,7 @@ redirect_from:
 - Certificate of Distinction in Teaching: Fall 2021 and Spring 2022, Harvard University, Derek Bok Center for Teaching and Learning. Award discontinued starting Fall 2022.
 
 ## Sample Section Leader Evaluations (Harvard)
-- [CS 181: Machine Learning (Spring 2023)](https://skbwu.github.io/files/spring-2023-181.pdf): I served as co-Head Teaching Fellow during this semester under Professor Weiwei Pan.
+- [CS 181: Machine Learning (Spring 2023)](https://skbwu.github.io/files/spring-2023-181.pdf): I served as co-Head Teaching Fellow during this semester under Dr. Weiwei Pan.
 - [STAT 110: Introduction to Probability (Fall 2023)](https://skbwu.github.io/files/fall-2023-110.pdf): this was my last (of three) semesters serving as an undergraduate teaching fellow for STAT 110, all under Professor Joe Blitzstein.
 
 
