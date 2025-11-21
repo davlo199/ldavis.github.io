@@ -1,19 +1,31 @@
 ---
 permalink: /
 title: "Research"
-author_profile: true
+author_profile: false
 redirect_from: 
   - /research/
   - /research.html
 ---
-I am a second-year Statistics PhD student at Stanford, and am very grateful and fortunate to be working with Professors [Scott W. Linderman](https://lindermanlab.github.io/) and [Emmanuel J. Candès](https://candes.su.domains/). 
 
-My research interests include statistical machine learning, Bayesian computational methods, online learning, reinforcement learning, and deep learning and LLMs. I am particularly excited about the real-world applications of the above to disease forecasting and public health, AI alignment, and Scientific Machine Learning (SciML), but am always excited to engage with new application areas. Practically, I enjoy working on methods in low signal-to-noise ratio (SNR) settings &mdash; for example, situations where data may be scarce and/or low quality. More broadly, I am very interested in (a) what statistics as a discipline can contribute in the age of AI; and (b) how various tools from adjacent (or not so adjacent) fields can be used to to turbocharge statistical methods.
+## Publications
 
-Before starting my PhD, I graduated from Harvard University with an A.B. in Statistics & Mathematics, an S.M. in Applied Mathematics, and a Secondary Field in Computer Science. I was very lucky to work under Professors [Samuel Kou](https://statistics.fas.harvard.edu/people/samuel-kou), [Susan Murphy](https://people.seas.harvard.edu/~samurphy/), [Himabindu Lakkaraju](https://himalakkaraju.github.io/), [Lucas M. Stolerman](https://sites.google.com/view/lucasmstolerman/home), and [Mauricio Santillana](https://cos.northeastern.edu/people/mauricio-santillana/).
+D. M. Zoltowski*, S. Wu*, X. Gonzalez, L. Kozachkov, and S. W. Linderman. **Parallelizing MCMC Across the Sequence Length.** *NeurIPS* 2025. [[arXiv](https://arxiv.org/abs/2508.18413)]
 
-Outside of academia, a significant portion of my research training was conducted under the tutelage of Drs. [Edward Raff](https://www.edwardraff.com/) and [Fred Lu](https://www.linkedin.com/in/fl16180/) at Booz Allen Hamilton, to whom I am very indebted.
+S. Wu, A. G. Meyer, L. Clemente, L. M. Stolerman, F. Lu, A. Majumder, R. Verbeeck, S. Masyn, and M. Santillana. **Ensemble Approaches for Short-Term Dengue Fever Forecasts: A Global Evaluation Study.** *Proceedings of the National Academy of Sciences 122*. 2025. [[PNAS](https://www.pnas.org/doi/abs/10.1073/pnas.2422335122)]
 
-I am passionate about teaching and mentorship, and was very fortunate to be mentored on these fronts by Professors [Joe Blitzstein](https://statistics.fas.harvard.edu/people/joseph-k-blitzstein) and [Weiwei Pan](https://onefishy.github.io/).
+S. Wu, F. Lu, E. Raff, and J. Holt. **Stabilizing Linear Passive-Aggressive Online Learning with Weighted Reservoir Sampling.** *NeurIPS* 2024. [[NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2024/hash/38d88c3296eafb09d3971d091a19cf6b-Abstract-Conference.html)]
 
-You can reach me at skylerw[at]stanford[dot]edu.
+## Workshop Papers, Working Papers, and Preprints
+
+K. Chasalow*, S. Wu*, and S. A. Murphy. **Missing Data Multiple Imputation for Tabular Q-Learning in Online RL.** 2025. [[arXiv](https://arxiv.org/abs/2510.10709)]
+
+S. Wu, S. Yang, and S. C. Kou. **Are Statistical Methods Obsolete in the Era of Deep Learning?** 2025. [[arXiv](https://arxiv.org/abs/2505.21723)]
+
+S. Wu*, E. M. Shen*, C. Badrinath*, J. Ma, and H. Lakkaraju. **Analyzing Chain-of-Thought Prompting in Large Language Models via Gradient-based Feature Attributions.** *Challenges in Deployable Generative AI Workshop at ICML* 2023. [[arXiv](https://arxiv.org/abs/2307.13339)]
+
+S. Wu, F. Lu, E. Raff, and J. Holt. **Exploring the Sharpened Cosine Similarity.** *I Can't Believe It's Not Better Workshop at NeurIPS* 2022. [[arXiv](https://arxiv.org/abs/2307.13855)]
+
+(*Equal Contribution)
+
+
+
