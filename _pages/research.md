@@ -1,0 +1,19 @@
+---
+permalink: /
+title: "Research"
+author_profile: true
+redirect_from: 
+  - /research/
+  - /research.html
+---
+I am a second-year Statistics PhD student at Stanford, and am very grateful and fortunate to be working with Professors [Scott W. Linderman](https://lindermanlab.github.io/) and [Emmanuel J. Candès](https://candes.su.domains/). 
+
+My research interests include statistical machine learning, Bayesian computational methods, online learning, reinforcement learning, and deep learning and LLMs. I am particularly excited about the real-world applications of the above to disease forecasting and public health, AI alignment, and Scientific Machine Learning (SciML), but am always excited to engage with new application areas. Practically, I enjoy working on methods in low signal-to-noise ratio (SNR) settings &mdash; for example, situations where data may be scarce and/or low quality. More broadly, I am very interested in (a) what statistics as a discipline can contribute in the age of AI; and (b) how various tools from adjacent (or not so adjacent) fields can be used to to turbocharge statistical methods.
+
+Before starting my PhD, I graduated from Harvard University with an A.B. in Statistics & Mathematics, an S.M. in Applied Mathematics, and a Secondary Field in Computer Science. I was very lucky to work under Professors [Samuel Kou](https://statistics.fas.harvard.edu/people/samuel-kou), [Susan Murphy](https://people.seas.harvard.edu/~samurphy/), [Himabindu Lakkaraju](https://himalakkaraju.github.io/), [Lucas M. Stolerman](https://sites.google.com/view/lucasmstolerman/home), and [Mauricio Santillana](https://cos.northeastern.edu/people/mauricio-santillana/).
+
+Outside of academia, a significant portion of my research training was conducted under the tutelage of Drs. [Edward Raff](https://www.edwardraff.com/) and [Fred Lu](https://www.linkedin.com/in/fl16180/) at Booz Allen Hamilton, to whom I am very indebted.
+
+I am passionate about teaching and mentorship, and was very fortunate to be mentored on these fronts by Professors [Joe Blitzstein](https://statistics.fas.harvard.edu/people/joseph-k-blitzstein) and [Weiwei Pan](https://onefishy.github.io/).
+
+You can reach me at skylerw[at]stanford[dot]edu.
