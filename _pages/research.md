@@ -17,11 +17,11 @@ S. Wu, F. Lu, E. Raff, and J. Holt. **Stabilizing Linear Passive-Aggressive Onli
 
 ## Workshop Papers, Working Papers, and Preprints
 
-S. Wu\* and A. Echarghaoui\*. **Intelligently Weighting Multiple Reference Models for Direct Preference Optimization of LLMs.** 2025. [[arXiv](https://arxiv.org/abs/2512.10040)]
+S. Wu\* and A. Echarghaoui\*. **Intelligently Weighting Multiple Reference Models for Direct Preference Optimization of LLMs.** Working paper, 2025. [[arXiv](https://arxiv.org/abs/2512.10040)]
 
-K. Chasalow\*, S. Wu\*, and S. A. Murphy. **Missing Data Multiple Imputation for Tabular Q-Learning in Online RL.** 2025. [[arXiv](https://arxiv.org/abs/2510.10709)]
+K. Chasalow\*, S. Wu\*, and S. A. Murphy. **Missing Data Multiple Imputation for Tabular Q-Learning in Online RL.** Working paper, 2025. [[arXiv](https://arxiv.org/abs/2510.10709)]
 
-S. Wu, S. Yang, and S. C. Kou. **Are Statistical Methods Obsolete in the Era of Deep Learning?** 2025. [[arXiv](https://arxiv.org/abs/2505.21723)]
+S. Wu, S. Yang, and S. C. Kou. **Are Statistical Methods Obsolete in the Era of Deep Learning?** Under revision at *The American Statistician*, 2025+. [[arXiv](https://arxiv.org/abs/2505.21723)]
 
 S. Wu\*, E. M. Shen\*, C. Badrinath\*, J. Ma, and H. Lakkaraju. **Analyzing Chain-of-Thought Prompting in Large Language Models via Gradient-based Feature Attributions.** *Challenges in Deployable Generative AI Workshop at ICML* 2023. [[arXiv](https://arxiv.org/abs/2307.13339)]
 
