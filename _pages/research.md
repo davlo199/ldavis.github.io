@@ -9,6 +9,8 @@ Please find a list of my publications and working publications. A full collectio
 
 ## Publications
 
+S. Wu, Y. Nair, and E. J. Candés. **Efficient Evaluation of LLM Performance with Statistical Guarantees.** [[arXiv]()]
+
 D. M. Zoltowski\*, S. Wu\*, X. Gonzalez, L. Kozachkov, and S. W. Linderman. **Parallelizing MCMC Across the Sequence Length.** *NeurIPS* 2025. [[arXiv](https://arxiv.org/abs/2508.18413)]
 
 S. Wu\*, A. G. Meyer\*, L. Clemente, L. M. Stolerman, F. Lu, A. Majumder, R. Verbeeck, S. Masyn, and M. Santillana. **Ensemble Approaches for Short-Term Dengue Fever Forecasts: A Global Evaluation Study.** *Proceedings of the National Academy of Sciences 122*. 2025. [[PNAS](https://www.pnas.org/doi/abs/10.1073/pnas.2422335122)]
