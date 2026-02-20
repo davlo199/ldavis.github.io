@@ -6,14 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a second-year Statistics Ph.D. student at Stanford co-advised by Professors [Scott W. Linderman](https://lindermanlab.github.io/) and [Emmanuel J. Candès](https://candes.su.domains/). I am supported by an NSF Graduate Research Fellowship.
+I am a second-year Statistics Ph.D. student at Stanford currently working with Professor [Guenther Walther](https://gwalther.su.domains) on change-point detection and multiscale statistics.
 
-My research interests include statistical machine learning, Bayesian computational methods, online learning, reinforcement learning, and deep learning and LLMs. I am particularly excited about the real-world applications of the above to disease forecasting and public health, AI alignment, and Scientific Machine Learning (SciML), but am always excited to engage with new application areas. Practically, I enjoy working on methods in low signal-to-noise ratio (SNR) settings &mdash; for example, situations where data may be scarce, low quality, and/or very expensive to obtain. More broadly, I am very interested in (a) what statistics as a discipline can contribute in the age of AI; and (b) how various tools from adjacent (or not so adjacent) fields can be used to turbocharge statistical methods.
+Prior to the Ph.D., I was a Master's Student, and then Research Assistant funded by the Royal Society of New Zealand Marsden Fund, at the University of Otago advised by Professors [Boris Baeumer](https://www.otago.ac.nz/staff-profiles/professor-boris-baeumer) and [Ting Wang](https://www.otago.ac.nz/maths-and-stats/people/ting-wang); I have also collaborated with Dr. Conor Kresin. There, I worked on Hawkes process models for seismicity, and in particular, developed new ``fractional" models which have connections to the geophysical underpinnings of earthquakes (for more please see my research page).
 
-Before starting my Ph.D., I graduated from Harvard University with an A.B. in Statistics & Mathematics, an S.M. in Applied Mathematics, and a Secondary Field in Computer Science, where I was fortunate to be advised by Professor [Samuel Kou](https://statistics.fas.harvard.edu/people/samuel-kou). At Harvard, I also had the privilege of working under Professors [Susan Murphy](https://people.seas.harvard.edu/~samurphy/), [Himabindu Lakkaraju](https://himalakkaraju.github.io/), [Lucas M. Stolerman](https://sites.google.com/view/lucasmstolerman/home), [Mauricio Santillana](https://cos.northeastern.edu/people/mauricio-santillana/), and [Shihao Yang](https://sites.gatech.edu/shihao-yang/).
-
-Outside of academia, a significant portion of my research training was conducted under the tutelage of Drs. [Edward Raff](https://www.edwardraff.com/) and [Fred Lu](https://www.linkedin.com/in/fl16180/) at Booz Allen Hamilton, to whom I am indebted.
-
-I am passionate about teaching and mentorship, and was fortunate to be mentored on these fronts by Professor [Joe Blitzstein](https://statistics.fas.harvard.edu/people/joseph-k-blitzstein) and Dr. [Weiwei Pan](https://onefishy.github.io/).
-
-You can reach me at skylerw[at]stanford[dot]edu.
+You can contact me at ldavis2[at]stanford[dot]edu.
